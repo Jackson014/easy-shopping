@@ -27,7 +27,7 @@
     padding: 40px;
 }
 
-img {
+assests {
     position: relative;
     top: 25%;
     right: 130px;
@@ -110,7 +110,7 @@ header {
         position: static;
     }
 
-    img {
+    assests {
         position: static;
         max-width: 90%;
     }
