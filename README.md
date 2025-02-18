@@ -7,5 +7,5 @@
 <p><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></p>
 
 <img src="https://github.com/Jackson014/easy-shopping/blob/main/assests/desktop.jpg.png?raw=true">
-<p><b>Aplicando a Resposividade</b></p>
+<p><b>Aplicando a Responsividade</b></p>
 <img src="https://github.com/Jackson014/easy-shopping/blob/main/assests/mobile.jpg.png?raw=true">
