@@ -8,4 +8,4 @@
 
 <img src="https://github.com/Jackson014/easy-shopping/blob/main/img/desktop.jpg.png?raw=true">
 <h4>Aplicando a Responsividade</h4>
-
+ <img src="https://github.com/Jackson014/easy-shopping/blob/main/img/mobile.jpg.png?raw=true">
