@@ -8,3 +8,4 @@
 
 <img src="https://github.com/Jackson014/easy-shopping/blob/main/assests/desktop.jpg.png?raw=true">
 <p><b>Aplicando a Resposividade</b></p>
+<img src="https://github.com/Jackson014/easy-shopping/blob/main/assests/mobile.jpg.png?raw=true">
